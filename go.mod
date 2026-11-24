@@ -13,7 +13,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/fatih/color v1.15.0
 	github.com/gofrs/uuid v4.4.0+incompatible
-	github.com/golang-jwt/jwt/v4 v4.5.0
+	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/google/go-cmp v0.5.9
 	github.com/google/uuid v1.4.0
 	github.com/hashicorp/go-azure-helpers v0.69.0
